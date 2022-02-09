@@ -148,8 +148,5 @@
 - 삭제시 휴지통 이동이 아니라 영구적 삭제!
 - `-f`:삭제여부 물어보지 않고 삭제 `rm -rf folder1`
 
-## 정리
-- pwd (print working directory) : 현재 디렉토리 (working directory)의 경로를 출력
-- cd (change directory) : PATH 경로에 해당하는 디렉토리로 이동합니다.
-  - 아무 아규먼트 없이 cd를 하면 사용자의 홈 디렉토리로 이동합니다.
-  - `-`을 사용하면 이전 경로로 돌아갑니다.
+### sudo
+- 관리자 권한을 가지고 command 실행.
